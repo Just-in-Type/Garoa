@@ -3,15 +3,15 @@
 DisplayStrings = (
 A
 );
-copyright = "Copyright (c) 2012 by Tony de Marco and Diego Maldonado. All rights reserved.";
+copyright = "Copyright 2012 The Garoa Project Authors: Tony de Marco and Diego Maldonado (https://github.com/felipesanches/Garoa)";
 customParameters = (
 {
-name = description;
-value = "Copyright (c) 2012 by Tony de Marco and Diego Maldonado. All rights reserved.";
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
-name = trademark;
-value = " is a trademark of Tony de Marco and Diego Maldonado.";
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = panose;
