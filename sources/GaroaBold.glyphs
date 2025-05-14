@@ -16828,7 +16828,7 @@ rightKerningGroup = "= \"@MMK_L_space\"";
 unicode = 02DC;
 },
 {
-glyphname = "2195""";
+glyphname = "2195";
 layers = (
 {
 layerId = "89B76552-B35F-455B-86D9-BC5A433DF1B4";
@@ -16888,7 +16888,7 @@ width = 745;
 rightKerningGroup = "= \"@MMK_L_space\"";
 },
 {
-glyphname = "2602""";
+glyphname = "2602";
 layers = (
 {
 layerId = "89B76552-B35F-455B-86D9-BC5A433DF1B4";
@@ -17017,7 +17017,7 @@ width = 673;
 rightKerningGroup = "= \"@MMK_L_space\"";
 },
 {
-glyphname = "2614""";
+glyphname = "2614";
 layers = (
 {
 layerId = "89B76552-B35F-455B-86D9-BC5A433DF1B4";
@@ -19955,7 +19955,7 @@ width = 1179;
 rightKerningGroup = "= \"@MMK_L_space\"";
 },
 {
-glyphname = "263A""";
+glyphname = "263A";
 layers = (
 {
 layerId = "89B76552-B35F-455B-86D9-BC5A433DF1B4";
@@ -20034,7 +20034,7 @@ width = 786;
 rightKerningGroup = "= \"@MMK_L_space\"";
 },
 {
-glyphname = "2665""";
+glyphname = "2665";
 layers = (
 {
 layerId = "89B76552-B35F-455B-86D9-BC5A433DF1B4";
