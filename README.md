@@ -2,9 +2,8 @@
 
 Inspired by the 70's design, specially on Herb Lubalin's work, the typeface Garoa is a rounded mechanical display font without optical compensations, ideal for large bodies. The medium weight has lower case for short texts, and the Bold versions have singular upper case glyphs, with some alternates (at least one alternate per letter – some with OpenType features some using caps on the keyboard).
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-01.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-02.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-03.png) |
+|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-04.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-05.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-06.png) |
 | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-07.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-08.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-09.png) |
 | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-10.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-11.png) | ![Image](https://raw.githubusercontent.com/felipesanches/Garoa/refs/heads/main/images/image-12.png) |
