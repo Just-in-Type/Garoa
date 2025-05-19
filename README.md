@@ -12,9 +12,7 @@ Inspired by the 70's design, specially on Herb Lubalin's work, the typeface Garo
 
 Copyright (c) 2012 by Tony de Marco and Diego Maldonado (http://www.justintype.com.br)
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1, available with a FAQ at http://scripts.sil.org/OFL
 
 # Build instructions
 
