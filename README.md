@@ -21,6 +21,7 @@ The following commands will compile the project files, resulting in font binarie
 ```
 python3 -m venv venv
 . venv/bin/activate
+pip install gftools
 gftools-builder sources/config.yaml
 ```
 
