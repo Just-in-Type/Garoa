@@ -1,6 +1,6 @@
 {
 .appVersion = "1082";
-copyright = "Copyright 2012 The Garoa Project Authors: Tony de Marco and Diego Maldonado (https://github.com/felipesanches/Garoa)";
+copyright = "Copyright 2012 The Garoa Project Authors: Tony de Marco and Diego Maldonado (https://github.com/Just-in-Type/Garoa)";
 customParameters = (
 {
 name = licenseURL;
