@@ -27,4 +27,4 @@ gftools-builder sources/config.yaml
 
 # About Just in Type
 
-​Just in Type is a Brazilian typefoundry that spices the world of typography. Their typefaces has samba’s movement, Carnival’s sensuality and soccer’s precision. Tony de Marco and Diego Maldonado join experience and inovation to lead creations of elegant and extremely functional typefaces.
+​Just in Type is a Brazilian typefoundry that spices the world of typography. Their typefaces have samba’s movement, Carnival’s sensuality and soccer’s precision. Tony de Marco and Diego Maldonado join experience and inovation to lead creations of elegant and extremely functional typefaces.
