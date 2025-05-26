@@ -27,7 +27,7 @@ gftools-builder sources/config.yaml
 
 # About Just in Type
 
-​Just in Type is a Brazilian typefoundry that spices the world of typography. Their typefaces have samba’s movement, Carnival’s sensuality and soccer’s precision. Tony de Marco and Diego Maldonado join experience and inovation to lead creations of elegant and extremely functional typefaces.
+​Just in Type is a Brazilian typefoundry that spices up the world of typography. Their typefaces have samba’s movement, Carnival’s sensuality and soccer’s precision. Tony de Marco and Diego Maldonado join experience and inovation to lead creations of elegant and extremely functional typefaces.
 
 ## Tony de Marco
 [Tony de Marco](http://www.tonydemarco.com.br) is a type designer, photographer and pornographer. Hard line, romantic, agitated, former shy (worse than former smokers), gambler, generous, egocentric, brass faced, caring, devil's advocate. Editor of the Tupigrafia magazine. His font Samba won Linotype's International Type Design Contest in 2003.
